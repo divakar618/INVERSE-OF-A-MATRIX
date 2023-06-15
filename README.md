@@ -19,6 +19,9 @@ End the program
 
 ## Program:
 ```
+developed by: DIVAKAR R
+register number: 212222240026
+
 import numpy as np
 a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 b=np.linalg.inv(a)
